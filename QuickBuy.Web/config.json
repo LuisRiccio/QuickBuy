@@ -1,0 +1,9 @@
+{
+  "Chave": "ValorChave",
+  "ConnectionStrings": {
+
+    "SqlServerConnection": "",
+    "QuickBuyDB": "server=localhost;uid=luisriccio;pwd=yokohama4545;database=QuickBuyDB"
+  }
+
+}
